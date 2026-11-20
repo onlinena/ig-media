@@ -28,3 +28,18 @@ Verticales 941x1672. Usar como fondo a pantalla completa (cover) y poner el text
 | adolescente-un-momento-fondo-rojo.jpg | El adolescente en un puf azul con el mando, levantando un dedo («un momento»), sobre fondo rojo | mitad de abajo | GANCHO: «¡Ya voy!» / «un momento» / pantallas |
 | adolescente-ayuda-deja-el-mando.jpg | El adolescente ha dejado el mando y ayuda contento a recoger el salón; mamá sonríe con una cesta | 20 % de arriba | SOLUCIÓN: «¡Ya voy!» / todos ayudan |
 | cierre-ya-voy-choca-esos-cinco.jpg | CIERRE TERMINADO con texto («21 días para reconectar en familia» + retosenfamilia.com): la familia celebra, el adolescente choca la mano con mamá, el mando apartado | — (no añadir texto) | CIERRE de «¡Ya voy!» o de cualquier reel de pantallas/ayudar en casa |
+
+## SERIE «21 días para reconectar en familia» (Yolanda, 21/11/2026)
+10 historias cotidianas, cada una en DOS imágenes: el pequeño conflicto (…-problema.jpg) y cómo lo resuelven juntos (…-solucion.jpg), con humor. Sirven para reels «¿Os suena?» de 5 escenas: gancho (problema con «¿OS SUENA?»), problema, solución, qué es el reto / precio, cierre. La mayoría tienen el tercio o la mitad de arriba libre (pared, cielo o techo del coche) para el texto. El texto tiene que contar lo que se ve. No son retos del juego: son situaciones de casa, se pueden contar.
+| Archivos | Historia |
+|---|---|
+| serie01-tarta-problema / -solucion | El último trozo de tarta: los hermanos tiran del mismo plato → acuerdan que uno corta y el otro elige, y acaban mirando las porciones con lupa |
+| serie02-se-puede-problema / -solucion | ¿Se puede?: la familia entra al cuarto del adolescente sin avisar y lo sorprende → papá llama y espera a que le invite a pasar |
+| serie03-coche-sitio-problema / -solucion | ¡Me estás quitando sitio!: los hermanos discuten en el asiento de atrás → ponen una mochila en medio y hacen las paces compartiendo una galleta |
+| serie04-torre-problema / -solucion | ¡Mi torre!: el mayor tira sin querer la torre del pequeño, que llora → la vuelven a levantar entre los dos |
+| serie05-columpio-problema / -solucion | ¡Una vez más!: el pequeño no quiere soltar el columpio → mamá pacta un último balanceo y se van de la mano |
+| serie06-deberes-problema / -solucion | ¡No me sale!: el adolescente se atasca con los deberes y aparta el cuaderno, enfadado → papá se sienta a su lado y lo vuelve a intentar |
+| serie07-cojin-problema / -solucion | ¡Ese es mi sitio!: los hermanos se pelean por el cojín del sofá → uno elige sitio y el otro la peli; palomitas para todos |
+| serie08-foto-excursion-problema / -solucion | ¡A mí no me saques!: el adolescente se tapa la cara cuando mamá saca el móvil en la excursión → ella fotografía las cuatro parejas de zapatillas llenas de barro |
+| serie09-necesito-un-momento-problema / -solucion | Necesito un momento: el adolescente se agobia en la comida familiar y sale a la terraza → le dan su rato y vuelve a charlar con todos |
+| serie10-taza-rota-problema / -solucion | Se ha roto una taza: papá grita del susto y el pequeño se asusta → papá se pone a su altura y le pide perdón; el pequeño le trae un paño |
