@@ -23,3 +23,4 @@ Verticales 941x1672. Usar como fondo a pantalla completa (cover) y poner el text
 | todos-ayudan-cocina.jpg | Papá friega, el adolescente seca, el pequeño pone la mesa y mamá contenta | 40 % de arriba | SOLUCIÓN: «¿Otra vez me toca todo a mí?» / todos ayudan / «¡Ya voy!» |
 | tienda-juguetes-lo-quiero.jpg | Pasillo de juguetes: papá agobiado con el carro lleno, el pequeño con ojos de estrella pidiendo más | 25 % de arriba (techo) | PROBLEMA: caprichos / «lo quiero» / compras de Navidad (semana de dinero, sin desvelar retos) |
 | navidad-calendario-adviento-familia.jpg | La familia ilusionada delante de un calendario de Adviento de cajitas en la pared, árbol de Navidad | 35 % de arriba | CALENDARIO DE ADVIENTO de regalo |
+| adolescente-ya-voy-mama-llama.jpg | Mamá llama desde la puerta y el adolescente, en el sofá con el mando, contesta sin soltarlo | 20 % de arriba y franja de abajo | GANCHO / PROBLEMA: «¡Ya voy!» |
