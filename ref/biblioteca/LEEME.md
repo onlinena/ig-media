@@ -24,3 +24,6 @@ Verticales 941x1672. Usar como fondo a pantalla completa (cover) y poner el text
 | tienda-juguetes-lo-quiero.jpg | Pasillo de juguetes: papá agobiado con el carro lleno, el pequeño con ojos de estrella pidiendo más | 25 % de arriba (techo) | PROBLEMA: caprichos / «lo quiero» / compras de Navidad (semana de dinero, sin desvelar retos) |
 | navidad-calendario-adviento-familia.jpg | La familia ilusionada delante de un calendario de Adviento de cajitas en la pared, árbol de Navidad | 35 % de arriba | CALENDARIO DE ADVIENTO de regalo |
 | adolescente-ya-voy-mama-llama.jpg | Mamá llama desde la puerta y el adolescente, en el sofá con el mando, contesta sin soltarlo | 20 % de arriba y franja de abajo | GANCHO / PROBLEMA: «¡Ya voy!» |
+| adolescente-ya-voy-mama-llama-fondo-rojo.jpg | Mamá llama desde una puerta y el adolescente en un puf azul con el mando contesta, sobre fondo rojo | mitad de abajo | GANCHO: «¡Ya voy!» |
+| adolescente-un-momento-fondo-rojo.jpg | El adolescente en un puf azul con el mando, levantando un dedo («un momento»), sobre fondo rojo | mitad de abajo | GANCHO: «¡Ya voy!» / «un momento» / pantallas |
+| adolescente-ayuda-deja-el-mando.jpg | El adolescente ha dejado el mando y ayuda contento a recoger el salón; mamá sonríe con una cesta | 20 % de arriba | SOLUCIÓN: «¡Ya voy!» / todos ayudan |
