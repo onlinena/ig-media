@@ -11,3 +11,11 @@ Verticales 941x1672. Usar como fondo a pantalla completa (cover) y poner el text
 | familia-sofa-sin-pantallas-riendo.jpg | Familia en el sofá riendo y hablando, móviles en una cesta | mitad de arriba | SOLUCIÓN |
 | familia-celebrando-confeti.jpg | Familia abrazada celebrando con confeti | tercio de abajo | CIERRE |
 | precio-32-oferta-hasta-30nov.jpg | Pantalla de precio TERMINADA con texto (32 €, 42 € tachado, 1,52 €/día, calendario de Adviento de regalo, hasta el 30/11) | — (no añadir texto) | PRECIO, solo hasta el 30/11/2026 |
+| dormir-cinco-minutitos-familia-puerta.jpg | Pequeño (corona) en la cama, enseñando la mano («cinco minutitos más»), con cara de pillo; papá, mamá y el adolescente en pijama bostezando en la puerta | 40 % de arriba (pared azul) | PROBLEMA: hora de dormir |
+| dormir-cinco-minutitos-padres-puerta.jpg | Igual, solo papá y mamá en la puerta | 40 % de arriba | PROBLEMA: hora de dormir |
+| dormir-familia-en-la-cama-calma.jpg | Los cuatro sentados tranquilos en la cama del pequeño, que bosteza; luz cálida | mitad de arriba | SOLUCIÓN: hora de dormir / calma |
+| navidad-abuelos-regalo-familia.jpg | Abuelo y abuela Dianito entregan un regalo con lazo rojo a la familia, salón con árbol de Navidad | 35 % de arriba | REGALO DE NAVIDAD («Regala 21 días en familia») |
+| dianito-navidad-sobre-regalo-fondo-rojo.jpg | Papá Dianito con gorro de Papá Noel, muy contento, con un sobre rojo con lazo dorado, fondo rojo | mitad de abajo | GANCHO navideño (Adviento, regalo, Navidad) |
+| coche-que-tal-el-dia-bien.jpg | Papá conduce y mira por el retrovisor; el adolescente detrás con cascos y cara de nada | 25 % de arriba (techo del coche) | PROBLEMA: «—¿Qué tal el día? —Bien.» |
+| mananas-con-prisas-recibidor.jpg | Caos por la mañana en el recibidor: papá con tostada y café, mamá buscando en el cajón, el pequeño con una zapatilla, ropa y mochila por el suelo | 25 % de arriba | PROBLEMA: mañanas con prisas |
+| mama-agobiada-me-toca-todo.jpg | Mamá cargada con platos, ropa y la compra, agobiada; al fondo el resto en el sofá con el móvil | 30 % de arriba | PROBLEMA: «¿Otra vez me toca todo a mí?» |
