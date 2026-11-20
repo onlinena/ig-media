@@ -27,3 +27,4 @@ Verticales 941x1672. Usar como fondo a pantalla completa (cover) y poner el text
 | adolescente-ya-voy-mama-llama-fondo-rojo.jpg | Mamá llama desde una puerta y el adolescente en un puf azul con el mando contesta, sobre fondo rojo | mitad de abajo | GANCHO: «¡Ya voy!» |
 | adolescente-un-momento-fondo-rojo.jpg | El adolescente en un puf azul con el mando, levantando un dedo («un momento»), sobre fondo rojo | mitad de abajo | GANCHO: «¡Ya voy!» / «un momento» / pantallas |
 | adolescente-ayuda-deja-el-mando.jpg | El adolescente ha dejado el mando y ayuda contento a recoger el salón; mamá sonríe con una cesta | 20 % de arriba | SOLUCIÓN: «¡Ya voy!» / todos ayudan |
+| cierre-ya-voy-choca-esos-cinco.jpg | CIERRE TERMINADO con texto («21 días para reconectar en familia» + retosenfamilia.com): la familia celebra, el adolescente choca la mano con mamá, el mando apartado | — (no añadir texto) | CIERRE de «¡Ya voy!» o de cualquier reel de pantallas/ayudar en casa |
